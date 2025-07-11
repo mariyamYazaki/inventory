@@ -1,7 +1,10 @@
+# requirements.txt — Inventory Forecast App
+
 streamlit
 pandas
 matplotlib
-scikit-learn
-openpyxl
 seaborn
 plotly
+scikit-learn
+openpyxl
+requests
